@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ad572fc5-158f-420c-9eae-7e471d73ee2a" name="Changes" comment="deleted skip key">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ghost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ghost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GhostBlue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GhostBlue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GhostGreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GhostGreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GhostPink.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GhostPink.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/GhostRed.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/GhostRed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Level1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Level1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ShadowPac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ShadowPac.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Ghost.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Ghost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GhostBlue.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GhostBlue.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GhostGreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GhostGreen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GhostPink.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GhostPink.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GhostRed.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GhostRed.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ShadowPac.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ShadowPac.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2Ov6LlU4V4Mm87RtjdcybHltPZe" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/XWill/OneDrive - The University of Melbourne/Year 2/Sem 1/Object Orientated Software Development/willzhang-project-2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Run" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="ShadowPac" />
+      <module name="bagel" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad572fc5-158f-420c-9eae-7e471d73ee2a" name="Changes" comment="" />
+      <created>1682428656619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1682428656619</updated>
+      <workItem from="1682567888819" duration="891000" />
+      <workItem from="1682991597345" duration="217000" />
+      <workItem from="1682991822395" duration="2548000" />
+      <workItem from="1682997078368" duration="41154000" />
+      <workItem from="1683526833330" duration="6343000" />
+      <workItem from="1683555330142" duration="598000" />
+      <workItem from="1683590065750" duration="1456000" />
+      <workItem from="1683593891941" duration="3823000" />
+      <workItem from="1683603596932" duration="302000" />
+      <workItem from="1683614311456" duration="4702000" />
+      <workItem from="1683720262813" duration="565000" />
+      <workItem from="1683773637725" duration="2659000" />
+      <workItem from="1684202814133" duration="3338000" />
+      <workItem from="1684292449288" duration="654000" />
+      <workItem from="1684293125329" duration="17469000" />
+      <workItem from="1684334793720" duration="1849000" />
+      <workItem from="1684369720438" duration="2516000" />
+      <workItem from="1684375964671" duration="9687000" />
+      <workItem from="1684428134442" duration="3324000" />
+      <workItem from="1684810644298" duration="24000" />
+      <workItem from="1684811110367" duration="96000" />
+      <workItem from="1684811331173" duration="4000" />
+      <workItem from="1684811354163" duration="1000" />
+      <workItem from="1685529064497" duration="225000" />
+      <workItem from="1686191588753" duration="18000" />
+      <workItem from="1686191884176" duration="250000" />
+      <workItem from="1686286255022" duration="246000" />
+      <workItem from="1686740723854" duration="2420000" />
+      <workItem from="1687131956676" duration="726000" />
+      <workItem from="1690184174070" duration="465000" />
+      <workItem from="1690184650810" duration="288000" />
+      <workItem from="1690267114684" duration="23000" />
+      <workItem from="1691038856302" duration="36000" />
+      <workItem from="1691038943001" duration="16000" />
+      <workItem from="1691051003023" duration="17000" />
+      <workItem from="1691052436309" duration="114000" />
+      <workItem from="1694075866774" duration="53000" />
+      <workItem from="1707126353134" duration="1007000" />
+      <workItem from="1707281545269" duration="762000" />
+    </task>
+    <task id="LOCAL-00001" summary="initial submission">
+      <created>1682514002696</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682514002696</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Used UML to modify project-1 for LEVEL0">
+      <created>1682997986479</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1682997986479</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Implement the Level 1 start screen">
+      <created>1682999633035</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1682999633035</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Render the Level 1 background and place the game entities read from the CSV file.">
+      <created>1683004413822</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683004413822</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Implement the player’s behaviour when colliding with all objects within level1">
+      <created>1683011167430</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683011167430</updated>
+    </task>
+    <task id="LOCAL-00006" summary="re-factored Ghost class to implement properly collision for movement of ghosts">
+      <created>1683091812096</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1683091812096</updated>
+    </task>
+    <task id="LOCAL-00007" summary="re-factored Ghost class to implement properly collision for movement of ghosts">
+      <created>1683091843794</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1683091843794</updated>
+    </task>
+    <task id="LOCAL-00008" summary="implemented frenzy mode for ghosts">
+      <created>1683095830706</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1683095830706</updated>
+    </task>
+    <task id="LOCAL-00009" summary="fixed ghost speed during frenzy &amp; resets their initial pos when eaten">
+      <created>1683099379299</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1683099379299</updated>
+    </task>
+    <task id="LOCAL-00010" summary="re-factored code using project-1 solutions as basis">
+      <created>1683530732278</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1683530732278</updated>
+    </task>
+    <task id="LOCAL-00011" summary="re-factored code to implement level classes &amp; javadocs">
+      <created>1684401178572</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1684401178572</updated>
+    </task>
+    <task id="LOCAL-00012" summary="re-factored code to implement level classes &amp; javadocs">
+      <created>1684428004911</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1684428004911</updated>
+    </task>
+    <task id="LOCAL-00013" summary="deleted skip key">
+      <created>1684428392280</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1684428392280</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial submission" />
+    <MESSAGE value="Used UML to modify project-1 for LEVEL0" />
+    <MESSAGE value="Implement the Level 1 start screen" />
+    <MESSAGE value="Render the Level 1 background and place the game entities read from the CSV file." />
+    <MESSAGE value="Implement the player’s behaviour when colliding with all objects within level1" />
+    <MESSAGE value="re-factored Ghost class to implement properly collision for movement of ghosts" />
+    <MESSAGE value="implemented frenzy mode for ghosts" />
+    <MESSAGE value="fixed ghost speed during frenzy &amp; resets their initial pos when eaten" />
+    <MESSAGE value="re-factored code using project-1 solutions as basis" />
+    <MESSAGE value="re-factored code to implement level classes &amp; javadocs" />
+    <MESSAGE value="deleted skip key" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted skip key" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
